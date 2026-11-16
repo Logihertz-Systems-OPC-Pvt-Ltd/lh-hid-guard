@@ -1,0 +1,9 @@
+Package: lh-hid-guard
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Sameer Tawade <ops@logihertz.com>
+Homepage: https://www.logihertz.com
+Description: lh-hid - Keystroke Inter-Arrival Velocity Anomaly Metric
+ Hardware USB and Human Interface Device (HID) security sentinel analyzing USB descriptors, composite interface classes, and keystroke injection velocity to block BadUSB and rogue rubber-ducky implants.
